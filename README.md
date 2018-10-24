@@ -1,4 +1,4 @@
-# web-desktop
+# [Flik Messenger](https://flik.im) Web and Desktop Support
 The official web and desktop release and issue tracker.
 
 ## I have a problem!
