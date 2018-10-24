@@ -26,4 +26,4 @@ Download the new .tar.gz:
 wget https://api.flik.im/updates/:branch/download.tar.gz
 ```
 
-Downloading old versions is unsupported, but can be done by manually going to the [releases page](/releases).
+Downloading old versions is unsupported, but can be done by manually by going to the [releases page](/releases).
