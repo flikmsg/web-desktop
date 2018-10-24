@@ -1,5 +1,8 @@
-# web-releases
-Release tracker for Flik.
+# web-desktop
+The official web and desktop release and issue tracker.
+
+## I have a problem!
+Please [open an issue](https://github.com/flikmsg/web-desktop/issues/new). Please make sure you apply the correct labels for the platform you are using. This is crucial! Describe your problem in detail, and how to reproduce it.
 
 ## Release Channels
 
